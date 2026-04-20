@@ -7,15 +7,15 @@ A aplicação utiliza o modelo Publish/Subscribe. Os sensores publicam dados de 
 Componentes do Sistema:
 Sensores Virtuais:
 
-Sensor de Temperatura: Simula a temperatura ambiente da plantação.
+  Sensor de Temperatura: Simula a temperatura ambiente da plantação.
 
-Sensor de Umidade do Solo: Simula o nível de hidratação da terra.
+  Sensor de Umidade do Solo: Simula o nível de hidratação da terra.
 
 Atuador Virtual:
 
-Irrigador Automático: Ativa ou desativa com base nas mensagens recebidas.
+  Irrigador Automático: Ativa ou desativa com base nas mensagens recebidas.
 
-Sistema Consumidor (Dashboard/Monitor):
+  Sistema Consumidor (Dashboard/Monitor):
 
 Script que centraliza a visualização dos dados e pode disparar alertas ou comandos.
 
